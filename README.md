@@ -7,7 +7,7 @@ Sou desenvolvedor Full Stack focado em criar soluções robustas, eficientes e e
 ### 🚀 Sobre Mim
 
 - 🎓 **Formação:** Engenheiro de Software em formação pela UNIRV Rio Verde (último período).
-- 🛠️ **Bagagem Prática:** Minha experiência anterior com manutenção industrial, mecânica e suporte técnico moldou uma mentalidade analítica e focada em resolução de problemas complexos, algo que aplico diretamente na arquitetura e escrita do meu código.
+- 🛠️ **Bagagem Prática:** Minha experiência anterior com manutenção industrial, mecânica e analista de suporte técnico moldou uma mentalidade analítica e focada em resolução de problemas complexos, algo que aplico diretamente na arquitetura e escrita do meu código.
 - 💼 **Atuação Atual:** Desenvolvimento de projetos Full Stack ponta a ponta e atuação como desenvolvedor freelancer na plataforma 99Freelas.
 
 ---
@@ -50,6 +50,6 @@ Sou desenvolvedor Full Stack focado em criar soluções robustas, eficientes e e
 
 Seja para discutir um projeto de freelancer, uma oportunidade de engenharia de software ou apenas trocar ideias sobre tecnologia, sinta-se à vontade para entrar em contato:
 
-- 💼 **LinkedIn:** [Seu Nome/Link do Perfil]
-- 📧 **E-mail:** [Seu E-mail]
-- 🌐 **99Freelas:** [Link do seu perfil]
+- 💼 **LinkedIn:** www.linkedin.com/in/marco-tulio-alves-de-moraes-1a7248338
+- 📧 **E-mail:** marcotalvesmoraes@gmail.com
+- 🌐 **99Freelas:** https://www.99freelas.com.br/user/marco-tulio-11
