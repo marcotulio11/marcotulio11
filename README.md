@@ -14,16 +14,14 @@ Sou desenvolvedor Full Stack focado em criar soluções robustas, eficientes e e
 
 ### 🛠️ Tecnologias & Ferramentas
 
-Aqui estão as principais tecnologias com as quais trabalho no meu dia a dia:
-
 <table>
   <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=ts,js" alt="Languages" /><br />
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=ts,js,java,py" alt="Languages" /><br />
       <b>Linguagens</b>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=react,nodejs" alt="Frontend & Backend" /><br />
+      <img src="https://skillicons.dev/icons?i=react,nodejs" alt="Frameworks" /><br />
       <b>Frameworks</b>
     </td>
     <td align="center" width="120">
